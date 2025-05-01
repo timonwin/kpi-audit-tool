@@ -35,6 +35,7 @@ This application helps organizations:
 
 ### KPI Audit Dashboard
 *Main dashboard showing metric statistics and usage patterns across departments*
+<img width="1149" alt="Screenshot 2025-04-30 at 5 46 45 PM" src="https://github.com/user-attachments/assets/5d564d7c-ab85-4e66-bed3-56289f13164d" />
 
 ### Recommended KPIs
 *AI-powered recommendations showing the top 3 most impactful KPIs with score breakdowns*
