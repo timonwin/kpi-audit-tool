@@ -2,7 +2,7 @@
 
 A powerful AI-powered application that identifies meaningful metrics and eliminates vanity KPIs from your dashboards, helping teams focus on what actually drives business outcomes.
 
-**Live Demo:** https://kpi-audit-tool.vercel.app/
+**Live Demo:** [https://kpi-audit-tool.vercel.app/](https://kpi-audit-dashboard.vercel.app/)
 
 ## Overview
 
