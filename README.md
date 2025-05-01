@@ -128,19 +128,3 @@ npm run dev
 * React
 * Tailwind CSS
 * Chart.js / Recharts
-
-## Future Enhancements
-* User Authentication: Multi-user support with role-based permissions
-* Saved Reports: Save and share analysis results
-* Historical Tracking: Monitor KPI performance over time
-* Custom Scoring Rules: Define your own evaluation criteria
-* BI Tool Integration: Connect with Power BI, Tableau, or Looker
-* Team Collaboration: Add commenting and discussion features
-* Mobile Optimization: Enhance the experience for on-the-go analysis
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Built with Next.js and Tailwind CSS
