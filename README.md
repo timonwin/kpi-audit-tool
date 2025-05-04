@@ -4,6 +4,8 @@ A powerful AI-powered application that identifies meaningful metrics and elimina
 
 **Live Demo:** [https://kpi-audit-tool.vercel.app/](https://kpi-audit-dashboard.vercel.app/)
 
+**Video Walkthrough:** [https://www.youtube.com/watch?v=WrgH_SoxCuU](https://www.youtube.com/watch?v=WrgH_SoxCuU)
+
 ## Overview
 
 The KPI Audit Tool solves a common business problem: dashboards cluttered with metrics that don't drive decisions. As highlighted in the challenge description, "Your dashboard tracks 27 KPIs. Two matter. The rest? Noise."
